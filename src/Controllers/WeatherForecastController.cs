@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace LibCenter.Controllers
+namespace LibCenter.src.Controllers
 {
     [ApiController]
     [Route("[controller]")]
